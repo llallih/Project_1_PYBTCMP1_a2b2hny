@@ -1,4 +1,4 @@
-# Project_1_PYBTCMP1_a2b2hny-
+# Project_1_PYBTCMP1_a2b2hny
 
 This project was designed to complete Global AI Hub Python Bootcamp, 2022.
 
